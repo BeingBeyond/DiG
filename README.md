@@ -16,6 +16,15 @@
 
 </div>
 
+
+<div align="center">
+  <video controls style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); width: 80%; max-width: 720px; margin: 12px 0;">
+    <source src="https://github.com/user-attachments/assets/882aaed9-f4e0-4dda-be17-38d30a71cfdf" type="video/mp4">
+  </video>
+</div>
+
+----
+
 <p align="center">
     <img src="docs/assets/image/framework.png"/>
 <p>
@@ -25,7 +34,7 @@
 
 ## News
 
-- **[2025-12-01]**: We publish **DiG-Flow**! Check our paper [here](https://arxiv.org/abs/2512.xxxxx). Code is coming soon! 🔥🔥🔥
+- **[2025-12-01]**: We publish **DiG-Flow**! Check our paper [here](https://arxiv.org/abs/2512.01715). Code is coming soon! 🔥🔥🔥
 
 ## Citation
 If you find our work useful, please consider citing us and give a star to our repository! 🌟🌟🌟
