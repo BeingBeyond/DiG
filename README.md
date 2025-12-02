@@ -1,9 +1,16 @@
 # DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models
 
 <div align="center">
-    
 
-[![Project Page](https://img.shields.io/badge/Website-DiG--Flow-green)](https://beingbeyond.github.io/DiG-Flow)
+**[Wanpeng Zhang](https://zhangwp.com)$^{1,2}$, [Ye Wang](https://scholar.google.com/citations?user=RTuvoywAAAAJ)$^{2,3}$, [Hao Luo](https://scholar.google.com/citations?user=TwuNaTYAAAAJ)$^{1,2}$, [Haoqi Yuan](https://yhqpkueecs.github.io)$^{1,2}$, [Yicheng Feng](https://takenpeanut.github.io)$^{1,2}$, [Sipeng Zheng](https://zhengsipeng.github.io)$^{2}$, [Qin Jin](https://www.jin-qin.com)$^{3}$, [Zongqing Lu](https://z0ngqing.github.io)$^{1,2†}$** <br>
+
+
+**${}^1{\text{Peking University}}$** $\hspace{1em}$ 
+**${}^2{\text{BeingBeyond}}$** $\hspace{1em}$ 
+**${}^3{\text{Renmin University of China}}$** 
+<br>
+
+[![Website](https://img.shields.io/badge/Website-DiG--Flow-green)](https://beingbeyond.github.io/DiG-Flow)
 [![arXiv](https://img.shields.io/badge/arXiv-2512.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2512.xxxxx)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
@@ -14,7 +21,7 @@
 <p>
 
 
-<b>DiG-Flow</b> is a modular, plug-and-play design that provides general support for flow-matching based VLAs. It maps observations and predictions into a unified representation space and measures their distributional discrepancy, preventing the flow-matching expert from generating actions blindly and allowing the autoregressive foundation model to better leverage its pretrained knowledge. <b>DiG-Flow</b> is compatible with various VLA architectures, including <b>π</b>, <b>GR00T</b>, and <a href="https://beingbeyond.github.io/Being-H0" target="_blank"> <b>Being-H</b></a>.
+<b>DiG-Flow</b> is a plug-and-play module for flow-matching based VLAs that rebalances control between the autoregressive foundation model and the flow expert. It embeds model inputs and flow outputs into a unified discrepancy space and uses this signal to gate the flow path, preventing shortcut transports that bypass the pretrained model and steering the expert toward more general, robust actions. <b>DiG-Flow</b> integrates seamlessly into diverse VLA architectures, including π, GR00T, and [**Being-H**](https://beingbeyond.github.io/Being-H0).
 
 ## News
 
