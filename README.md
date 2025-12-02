@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**[Wanpeng Zhang](https://zhangwp.com)$^{1,2}$, [Ye Wang](https://scholar.google.com/citations?user=RTuvoywAAAAJ)$^{2,3}$, [Hao Luo](https://scholar.google.com/citations?user=TwuNaTYAAAAJ)$^{1,2}$, [Haoqi Yuan](https://yhqpkueecs.github.io)$^{1,2}$, [Yicheng Feng](https://takenpeanut.github.io)$^{1,2}$, [Sipeng Zheng](https://zhengsipeng.github.io)$^{2}$, [Qin Jin](https://www.jin-qin.com)$^{3}$, [Zongqing Lu](https://z0ngqing.github.io)$^{1,2†}$** <br>
+**[Wanpeng Zhang](https://zhangwp.com)$^{1,2}$, [Ye Wang](https://scholar.google.com/citations?user=RTuvoywAAAAJ)$^{2,3}$, [Hao Luo](https://scholar.google.com/citations?user=TwuNaTYAAAAJ)$^{1,2}$, [Haoqi Yuan](https://yhqpkueecs.github.io)$^{1,2}$, [Yicheng Feng](https://takenpeanut.github.io)$^{1,2}$,**<br>**[Sipeng Zheng](https://zhengsipeng.github.io)$^{2}$, [Qin Jin](https://www.jin-qin.com)$^{3}$, [Zongqing Lu](https://z0ngqing.github.io)$^{1,2†}$** <br>
 
 
 **${}^1{\text{Peking University}}$** $\hspace{1em}$ 
@@ -11,7 +11,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/Website-DiG--Flow-green)](https://beingbeyond.github.io/DiG-Flow)
-[![arXiv](https://img.shields.io/badge/arXiv-2512.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2512.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.01715-b31b1b.svg)](https://arxiv.org/abs/2512.01715)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 </div>
@@ -34,7 +34,7 @@ If you find our work useful, please consider citing us and give a star to our re
 @article{zhang2025digflow,
   title={DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models},
   author={Zhang, Wanpeng and Wang, Ye and Luo, Hao and Yuan, Haoqi and Feng, Yicheng and Zheng, Sipeng and Jin, Qin and Lu, Zongqing},
-  journal={arXiv preprint arXiv:2512.xxxxx},
+  journal={arXiv preprint arXiv:2512.01715},
   year={2025}
 }
 ```
