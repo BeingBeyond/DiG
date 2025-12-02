@@ -2,12 +2,12 @@
 
 <div align="center">
 
-**[Wanpeng Zhang](https://zhangwp.com)$^{1,2}$, [Ye Wang](https://scholar.google.com/citations?user=RTuvoywAAAAJ)$^{2,3}$, [Hao Luo](https://scholar.google.com/citations?user=TwuNaTYAAAAJ)$^{1,2}$, [Haoqi Yuan](https://yhqpkueecs.github.io)$^{1,2}$, [Yicheng Feng](https://takenpeanut.github.io)$^{1,2}$,**<br>**[Sipeng Zheng](https://zhengsipeng.github.io)$^{2}$, [Qin Jin](https://www.jin-qin.com)$^{3}$, [Zongqing Lu](https://z0ngqing.github.io)$^{1,2†}$** <br>
+**[Wanpeng Zhang](https://zhangwp.com)<sup>1,2</sup>, [Ye Wang](https://scholar.google.com/citations?user=RTuvoywAAAAJ)<sup>2,3</sup>, [Hao Luo](https://scholar.google.com/citations?user=TwuNaTYAAAAJ)<sup>1,2</sup>, [Haoqi Yuan](https://yhqpkueecs.github.io)<sup>1,2</sup>, [Yicheng Feng](https://takenpeanut.github.io)<sup>1,2</sup>,**  
+**[Sipeng Zheng](https://zhengsipeng.github.io)<sup>2</sup>, [Qin Jin](https://www.jin-qin.com)<sup>3</sup>, [Zongqing Lu](https://z0ngqing.github.io)<sup>1,2†</sup>**
 
-
-**${}^1{\text{Peking University}}$** $\hspace{1em}$ 
-**${}^2{\text{BeingBeyond}}$** $\hspace{1em}$ 
-**${}^3{\text{Renmin University of China}}$** 
+**<sup>1</sup>Peking University** &nbsp;&nbsp;
+**<sup>2</sup>BeingBeyond** &nbsp;&nbsp;
+**<sup>3</sup>Renmin University of China**
 <br>
 
 [![Website](https://img.shields.io/badge/Website-DiG--Flow-green)](https://beingbeyond.github.io/DiG-Flow)
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/882aaed9-f4e0-4dda-be17-38d30a71cfdf" controls>
+<video src="https://github.com/user-attachments/assets/5f63745a-53d5-4440-95d3-1a710c3c2bde" controls>
 </video>
 </div>
 
